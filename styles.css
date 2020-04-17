@@ -1,9 +1,9 @@
 body {
-	background-color: #ADD8E6;
+	background-color: black;
 }
 #h1 {
 	text-align: center;
-	color: blue;
+	color: orangered;
 }
 
 #h2 {
@@ -19,11 +19,11 @@ body {
 	padding: 40px 40px 40px 40px;
 	margin: 50px auto;
 	width: 10%;
-	border-top-left-radius: 20px;
-	border-top-right-radius: 20px;
-	border-bottom-left-radius: 20px;
-	border-bottom-right-radius: 20px;
-	min-width: 200px; 
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+	border-bottom-left-radius: 40px;
+	border-bottom-right-radius: 40px;
+	min-width: 300px; 
 } 
 
 #button {
@@ -67,4 +67,23 @@ body {
 
 #sel {
 	background-color: #DDDDDD;
+}
+
+#pics{
+    width: 50%;
+}
+
+#slk {
+	font-size: 10px;
+}
+
+#hi {
+    color: orangered;
+}
+
+#abt {
+    color: orangered;
+}
+#dob{
+    background-color: #DDDDDD;
 }
