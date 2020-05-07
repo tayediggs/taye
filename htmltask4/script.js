@@ -46,7 +46,7 @@ function submitform(e) {
     // store player name
     sessionStorage.setItem("name", name);
     
-    location.href="quiz.html";
+    location.href="index.html";
 }
 
 let question_count = 0;
